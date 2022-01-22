@@ -1,0 +1,39 @@
+.D1 {
+    font-variant: small-caps;
+    word-spacing: 2px;
+    font-size: 20px;
+    letter-spacing: 0px;
+    line-height: 25px;
+    color: red;
+}
+
+.D2 {
+    font-variant: small-caps;
+    word-spacing: 2px;
+    font-size: 20px;
+    letter-spacing: 0px;
+    line-height: 25px;
+    color: blue;
+}
+
+.D3 {
+    font-variant: small-caps;
+    font-size: 20px;
+    word-spacing: 2px;
+    letter-spacing: 0px;
+    line-height: 25px;
+    color: rgb(44, 187, 44);
+}
+
+h2 {
+    color: white;
+    text-shadow: 0 0 5px red;
+}
+
+body {
+    text-align: center;
+}
+
+strong {
+    color: brown;
+}

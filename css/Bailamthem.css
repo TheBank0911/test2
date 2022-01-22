@@ -1,0 +1,45 @@
+.D1 {
+    border: 10px double orangered;
+}
+
+.D4>span {
+    font-size: 50px;
+    font-weight: 100px;
+    color: brown;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman';
+    color: orangered;
+}
+
+.D2 {
+    background-color: orangered;
+    color: white;
+    text-align: right;
+    font-size: 20px;
+}
+
+#ps {
+    font-size: 50px;
+    color: brown;
+}
+
+#p2 {
+    color: red;
+    font-weight: bolder;
+}
+
+#p3 {
+    color: red;
+    font-weight: bolder;
+}
+
+.D3 {
+    text-align: right;
+}
+
+.D4 {
+    text-align: left;
+}
